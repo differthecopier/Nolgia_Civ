@@ -1,1 +1,16 @@
-
+[
+  	{
+		"name": "Skirmishern",
+		"unitType": "Archery",
+		"uniqueTo": "Nolgia",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+]
