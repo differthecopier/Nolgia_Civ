@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Nolgia",
+		"leaderName": "Bedyn Kulis",
+		"adjective": ["Nolgish"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Seven Lords, may you keep Nolgia strong. For thousand of years we built language and science.",
+		"startIntroPart2": "Something (ToAdd)",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "May your treacherous life cease to exist until tomorrow.",
+		"attacked": "You morron, no one can defeat Nolgish pride.",
+		"defeated": "I'm sorry that such vulgar people have to rule over our dignity.",
+		"introduction": "Koe, my friend. Welcome to the gates of our nation, Nolgia. I'm Bedyn Kulis, leader of Nolgia.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Koe!",
+		"neutralLetsHearIt": ["I'm listening."],
+		"neutralNo": ["Net, I have to refuse.","I refuse."],
+		"neutralYes": ["Let it be.","I don't see reason to refuse."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "I wish that you come with a purpose.",
+		"hateLetsHearIt": ["Go on.","Let me hear your nonsense."],
+		"hateNo": ["Of course I disaggre","Nonsense."],
+		"hateYes": ["Thank you for your consideration, I agree","Well, I agree."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I hope it's the last time.",
+		"tradeRequest": "Let our nations work together.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0,51,75],
+		"innerColor": [56,206,229],
+		"unique": "...",
+		"cities": ["Bren","Oloma","Zelin","Floten","Gopqa","Fenisfa","Boro Heli","Smelynoa","Katto",
+			"a","b","c","d","e","f","g","h","i","j",]
 	}
 ]
