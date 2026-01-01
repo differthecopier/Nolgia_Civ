@@ -1,16 +1,27 @@
 [
   	{
-		"name": "Skirmishern",
-		"unitType": "Archery",
+		"name": "Fedesmot",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Nolgia",
-		"replaces": "Archer",
 		"movement": 2,
-		"strength": 4,
-		"rangedStrength": 7,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
-		"attackSound": "arrow"
+		"strength": 95,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"attackSound": "shot",
+		"uniques": ["All tiles cost 1 movement", "Never appears as a Barbarian unit"]
 	},
+	{
+		"name": "Colliot",
+		"unitType": "Armored",
+		"replaces": "Tank",
+		"uniqueTo": "Nolgia",
+		"movement": 4,
+		"strength": 115,
+		"cost": 415,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	}
 ]
